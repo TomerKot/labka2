@@ -1,0 +1,15 @@
+C:\Users\TomerKot\source\repos\exchange1\exchange1\bin\Debug\net6.0\exchange1.exe
+C:\Users\TomerKot\source\repos\exchange1\exchange1\bin\Debug\net6.0\exchange1.deps.json
+C:\Users\TomerKot\source\repos\exchange1\exchange1\bin\Debug\net6.0\exchange1.runtimeconfig.json
+C:\Users\TomerKot\source\repos\exchange1\exchange1\bin\Debug\net6.0\exchange1.dll
+C:\Users\TomerKot\source\repos\exchange1\exchange1\bin\Debug\net6.0\ref\exchange1.dll
+C:\Users\TomerKot\source\repos\exchange1\exchange1\bin\Debug\net6.0\exchange1.pdb
+C:\Users\TomerKot\source\repos\exchange1\exchange1\obj\Debug\net6.0\exchange1.csproj.AssemblyReference.cache
+C:\Users\TomerKot\source\repos\exchange1\exchange1\obj\Debug\net6.0\exchange1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TomerKot\source\repos\exchange1\exchange1\obj\Debug\net6.0\exchange1.AssemblyInfoInputs.cache
+C:\Users\TomerKot\source\repos\exchange1\exchange1\obj\Debug\net6.0\exchange1.AssemblyInfo.cs
+C:\Users\TomerKot\source\repos\exchange1\exchange1\obj\Debug\net6.0\exchange1.csproj.CoreCompileInputs.cache
+C:\Users\TomerKot\source\repos\exchange1\exchange1\obj\Debug\net6.0\exchange1.dll
+C:\Users\TomerKot\source\repos\exchange1\exchange1\obj\Debug\net6.0\ref\exchange1.dll
+C:\Users\TomerKot\source\repos\exchange1\exchange1\obj\Debug\net6.0\exchange1.pdb
+C:\Users\TomerKot\source\repos\exchange1\exchange1\obj\Debug\net6.0\exchange1.genruntimeconfig.cache
